@@ -1,4 +1,4 @@
-(function () {
+(function ($) {
 
   function middle(intval) {
     return Math.floor(intval[0] + (intval[1] - intval[0])/2);
@@ -46,4 +46,4 @@
       textflow(elem, min, max);
     });
   };
-})();
+})(jQuery);

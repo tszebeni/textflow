@@ -1,0 +1,28 @@
+{
+  "name": "textflow",
+  "version": "1.0.0",
+  "homepage": "https://github.com/khaliy/textflow",
+  "authors": [
+    "Tamas Szebeni"
+  ],
+  "description": "Text flow plugin for jquery",
+  "main": "src/textflow.jquery.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "jquery",
+    "textflow",
+    "plugin",
+    "text",
+    "resize"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

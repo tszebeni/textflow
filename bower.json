@@ -6,12 +6,11 @@
     "Tamas Szebeni"
   ],
   "description": "Text flow plugin for jquery",
-  "main": "src/textflow.jquery.js",
-  "moduleType": [
-    "amd"
-  ],
+  "main": "dist/textflow.jquery.min.js",
   "keywords": [
     "jquery",
+    "jquery-plugin",
+    "ecosystem:jquery",
     "textflow",
     "plugin",
     "text",

@@ -6,6 +6,7 @@ module.exports = function(grunt) {
                 src: 'src/**/*.js',
                 options: {
                     specs: 'test/*.test.js',
+                    keepRunner: true,
                     vendor: ['bower_components/jquery/dist/jquery.min.js']
                 }
             }
